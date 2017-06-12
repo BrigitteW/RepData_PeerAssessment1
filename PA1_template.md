@@ -184,4 +184,5 @@ xyplot(steps~interval|factor(weekname),data=weekintervalsteps,type="l", layout=c
 
 ![](PA1_template_files/figure-html/unnamed-chunk-12-1.png)<!-- -->
 
+
 Users tend to get more steps on the weekends when compared to the weekdays.

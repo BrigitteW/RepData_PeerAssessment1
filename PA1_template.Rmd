@@ -118,4 +118,5 @@ library(lattice)
 xyplot(steps~interval|factor(weekname),data=weekintervalsteps,type="l", layout=c(1,2))
 ```
 
+
 Users tend to get more steps on the weekends when compared to the weekdays.
